@@ -1,7 +1,10 @@
 body {
     text-align: center;
     color: #000000;
-    background-color: linear-gradient(to bottom, #003399 0%, #007474c7 100%);
     font-size: 20px;
     font-family:'Courier New', Courier, monospace;
+}
+
+.main {
+	background: linear-gradient(#003399 0%, #007474c7 100%);
 }
