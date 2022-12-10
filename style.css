@@ -3,8 +3,88 @@ body {
     color: #000000;
     font-size: 20px;
     font-family:'Courier New', Courier, monospace;
+	background: linear-gradient(#003399 0%, #007474c7 100%);
 }
 
-.main {
-	background: linear-gradient(#003399 0%, #007474c7 100%);
+header {
+    background-color: #3740be;
+    width: 1200px;
+    margin: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.title {
+    font-size: 60px;
+    border: solid 4px;
+    max-width: 450px;
+    border-color: #c0c0c0;
+    background-color: #ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background: linear-gradient(#009966 0%, #007474c7 100%);
+}
+
+p {
+    width: 1200px;
+    margin: auto;
+}
+
+article {
+    width: 1200px;
+    margin: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background: linear-gradient(#00865a 0%, #007474c7 100%);
+}
+
+.bottom {
+    background-color: #3740be;
+    margin: auto;
+    width: 1200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bottom_text {
+    color: white;
+    font-size: 10px;
+    width: 1000px;
+    margin: auto;
+	text-align: center;
+}
+
+.bottom_img {
+    width: 100px;
+    height: 100px;
+    border: solid 3px;
+    border-radius: 20px;
+}
+
+nav {
+    background-color: #3740be;
+    width: 1200px;
+    margin: auto;
+}
+
+a:link {
+    color: #ffffff;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+a:active {
+    color: #ffffff;
 }
