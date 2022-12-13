@@ -6,15 +6,21 @@ body {
     font-family:'Courier New', Courier, monospace;
 }
 
+@font-face {
+	font-family: FormalCorporation;
+	src: url(fonts/Quicksand-Light.ttf);
+}
+
 .title {
     font-size: 60px;
     border: solid 4px;
     max-width: 450px;
     border-color: #c0c0c0;
     background-color: #ffffff;
-    font-family:Arial, Helvetica, sans-serif;
     margin: auto;
     border-radius: 20px;
+	background-color: blue;
+	font-family: FormalCorporation;
 }
 
 article {
