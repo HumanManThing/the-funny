@@ -1,4 +1,4 @@
-# the-funny
+# the-funny (Cement Shipping And Co. Corp.)
 
 :trollface:
 
