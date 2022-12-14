@@ -17,6 +17,20 @@ body {
 	background-color: blue;
 }
 
+.gallery_panel {
+	margin: auto;
+	text-align: center;
+	background-color: #00c98c;
+	width: 600px;
+}
+
+.art {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+}
+
 .yeah {
 	background-color: #000b49;
 	color: white;
