@@ -22,6 +22,7 @@ body {
 	text-align: center;
 	background-color: #00c98c;
 	width: 600px;
+	height: auto;
 }
 
 .art {
@@ -29,6 +30,13 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	width: 500px;
+}
+
+.art-creepy {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
 }
 
 .yeah {
@@ -66,7 +74,7 @@ a:active {
 
 .bottom_text {
     color: white;
-    font-size: 10px;
+    font-size: 15px;
     width: 1000px;
     margin: auto;
 }
