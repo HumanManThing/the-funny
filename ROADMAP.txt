@@ -4,4 +4,4 @@ Key:
 
 *: Denotes that this has been completed.
 
-1. Fix various code syntax errors.
+*1. Fix various code syntax errors.
