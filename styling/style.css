@@ -48,11 +48,15 @@ a:active {
     position:static;
     left: 0;
     right: 0;
+    border-color: #030e50;
+    border-radius: 20px;
+    border: solid 4px;
+    margin: auto;
 }
 
 .bottom_text {
     color: white;
-    font-size: 20px;
+    font-size: 10px;
     width: 1000px;
     margin: auto;
 }
